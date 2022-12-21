@@ -1,0 +1,50 @@
+{
+    "selected":[
+        {
+            "_id": "portofolio_1",
+            "tittleName": "KTM-UPI Online",
+            "projectName": "I-TRI CHALLEGE #2",
+            "Image": "../assets/Images/Porto1.png",
+            "Descrip": "KTM-UPI Online is a website design that I created in a competition about Innovation Technology In Pandemic Era' organized by BEM KEMAKOM FPMIPA UPI. This website serves to help new students in particular to make their KTM online without going to campus because there is covid-19. I created this design using Figma. This website design is what made me finally win the competition I-TRI CHALLENGE #2.",
+            "Link": "https://drive.google.com/drive/folders/1sNrP0XMjEQO2iwnIDhtphkMbsESpKrNu?usp=sharing"
+        },
+        {
+            "_id": "portofolio_2",
+            "tittleName": "Clothify",
+            "projectName": "Dimas-TI MIPA LPTK untuk Indonesia Emas",
+            "Image": "../assets/Images/Porto2.png",
+            "Descrip": "The DIMAS TI competition is a Student Education, Mathematics, Science, and Information Technology event, which is an AMLI program (Association of MIPA LPTK Indonesia) with the theme “DIMAS-TI MIPA LPTK untuk Indonesia Emas” and is organized by the State University of Semarang online. My colleagues and I came up with the idea of creating an application to sell and donate used clothes called 'Clothify' <br/> In this application, donors can post clothes that they don't use to be donated or resold so that people who are looking for clothes at low prices or even free can be easily connected. With this design, my colleagues and I won 3rd place in the DIMAS TI AMLI competition",
+            "Link": "https://drive.google.com/drive/folders/1_N0kRN_sAO-_eTaYxrTG02CBMIWETShR?usp=sharing"
+        },
+        {
+            "_id": "portofolio_3",
+            "tittleName": "Re-Design Website Pizza Hut",
+            "projectName": "Interaksi Manusia dan Komputer",
+            "Image": "../assets/Images/Porto3.png",
+            "Descrip": "Here, my colleagues and I redesigned the Pizza Hut website, changing the flow. We do this as one of the assignments for our course, namely Human and Computer Interaction. In addition to redesign, we also carry out Usability Testing which aims to check whether the design we have made is correct and makes it easier for users or not.",
+            "Link": "https://docs.google.com/document/d/1DGe3xqEz85iTJCRnEattXOnDAQo5dua5ES8JNPhzAwY/edit?usp=sharing"
+        },
+        {
+            "_id": "portofolio_4",
+            "tittleName": "Quarter Life Project (QLP)",
+            "projectName": "Project Magang",
+            "Image": "../assets/Images/Porto4.png",
+            "Descrip": "Quarter Life Projects exists as a support ecosystem for young Indonesians (aged 18-30 years) who are facing the Quarter Life Crisis. To make it easier to support this, Quarter Life Project uses the website as a medium. The existing website has been helpful for a long time during the Quarter Life Project journey. However, there are plans to redesign to make it easier and make the appearance of the website even fresher <br/> I joined an internship with a duration of 4 months from January 2022 to April 2022. I was assigned to try to redesign the website and also research users who use the Quarter Life Project website to match the user's wishes."
+        },
+        {
+            "_id": "portofolio_5",
+            "tittleName": "Intelligo.Id",
+            "projectName": "Project Magang",
+            "Image": "../assets/Images/Porto6.png",
+            "Descrip": "Intelligo ID is here to solve problems in learning and become an IT Service solution in the field of Web Development & Data Science"
+        },
+        {
+            "_id": "portofolio_6",
+            "tittleName": "Grosharing",
+            "projectName": "Gemastik",
+            "Image": "../assets/Images/Porto5.png",
+            "Descrip": "Here, my colleagues and I took part in the Gemastik competition, which is an annual event organized by the National Achievement Center (Puspresnas) of the Ministry of Education and Culture. With the theme “TIK UNTUK INDONESIA BANGKIT MENUJU KEHIDUPAN BANGSA YANG LEBIH BAIK”. We created an application called “GroSharing” which aims to help people to be able to organize every food ingredient they buy",
+            "Link": "https://drive.google.com/drive/folders/1JciVnXpOpa5yWaSDu2cFzHkfp2RFvWM7"
+        }
+    ]
+}
