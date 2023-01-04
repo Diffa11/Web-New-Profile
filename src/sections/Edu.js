@@ -61,7 +61,7 @@ export default function Edu(props) {
                         Internship Experience
                         <br/> Niagahoster
                     </h3>
-                    <p>June 2022 - Present</p>
+                    <p>September 2022</p>
                 </div>
                 <div class="col-1">
                     <img src={Mgng5} class="card-img-top" width="1%" />
@@ -71,7 +71,7 @@ export default function Edu(props) {
                         Internship Experience
                         <br/> QWords
                     </h3>
-                    <p>January 2022 - April 2022</p>
+                    <p>Desember 2022</p>
                 </div>
             </div>
         </section>
