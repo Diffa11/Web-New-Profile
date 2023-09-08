@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-import Porto1 from '../assets/Images/Porto1.png'
-import Porto2 from '../assets/Images/Porto2.png'
-import Porto3 from '../assets/Images/Porto3.png'
-import Porto4 from '../assets/Images/Porto4.png'
-import Porto5 from '../assets/Images/Porto5.png'
-import Porto6 from '../assets/Images/Porto6.png'
+import Porto1 from '../assets/Images/Porto1.webp'
+import Porto2 from '../assets/Images/Porto2.webp'
+import Porto3 from '../assets/Images/Porto3.webp'
+import Porto4 from '../assets/Images/Porto4.webp'
+import Porto5 from '../assets/Images/Porto5.webp'
+import Porto6 from '../assets/Images/Porto6.webp'
 
 export default function Project1(props) {
     return (

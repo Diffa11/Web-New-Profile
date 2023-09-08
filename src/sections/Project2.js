@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-import DE1 from '../assets/Images/DE 1.png'
-import DE2 from '../assets/Images/DE 2.png'
-import DE3 from '../assets/Images/DE 3.png'
-import DE4 from '../assets/Images/DE 4.png'
-import DE5 from '../assets/Images/DE 5.png'
-import DE6 from '../assets/Images/DE 6.png'
+import DE1 from '../assets/Images/DE 1.webp'
+import DE2 from '../assets/Images/DE 2.webp'
+import DE3 from '../assets/Images/DE 3.webp'
+import DE4 from '../assets/Images/DE 4.webp'
+import DE5 from '../assets/Images/DE 5.webp'
+import DE6 from '../assets/Images/DE 6.webp'
 
 let i = 0;
 const items = [];

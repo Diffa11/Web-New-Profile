@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-import ED1 from '../assets/Images/Edu 1.png'
-import Mgng1 from '../assets/Images/Edu 2.png'
-import Mgng2 from '../assets/Images/Edu 3.png'
-import Mgng3 from '../assets/Images/Edu 4.png'
-import Mgng4 from '../assets/Images/Edu 5.png'
-import Mgng5 from '../assets/Images/Edu 6.png'
+import ED1 from '../assets/Images/Edu 1.webp'
+import Mgng1 from '../assets/Images/Edu 2.webp'
+import Mgng2 from '../assets/Images/Edu 3.webp'
+import Mgng3 from '../assets/Images/Edu 4.webp'
+import Mgng4 from '../assets/Images/Edu 5.webp'
+import Mgng5 from '../assets/Images/Edu 6.webp'
 
 export default function Edu(props) {
     return (
