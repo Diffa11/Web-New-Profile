@@ -1,0 +1,88 @@
+{
+    "selected":[
+        {
+            "_id": "portofolio_1",
+            "tittleName": "Bengkel Iman",
+            "projectName": "Thesis",
+            "Image": "../assets/Images/Porto1.png",
+            "Image1" : "../assets/Images/Porto1 detail 1.png",
+            "Image2" : "../assets/Images/Porto1 detail 2.png",
+            "Image3" : "../assets/Images/Porto1 detail 3.png",
+            "Descrip": "Bengkeliman is a website that I created to fulfill my final college assignment and aims to help friends from motorbike gangs to want to recite the Al Qur'an. ",
+            "Descrip1": "In the process I found a journal which said that people in Indonesia still could not read the Qur'an as much as 65%. This figure is very large in our country which has the largest number of Muslims. After that I tried to interview as many as 30 young motorcycle gangs (as a case study) and it turned out that 27 teenagers couldn't or even couldn't recite the Koran anymore. After learning about this problem, I tried to offer a solution in the form of a learning website.",
+            "Descrip2": "In creating a website, I conducted interviews and mapped the results into an Empathy Map and a list of problems experienced by potential users. Next, create a User Persona and User Journey to find out the characteristics and flow of the user. Uses the How Might We approach to turning problems into solvable challenges. Next, try to make an appropriate design so that users want to use it and make it easier.",
+            "Descrip3": "As a result, by using the UEQ I got a very good score out of 6 aspects assessed, and SUS got a score of 82 which is a good score.",
+            "Link": "https://drive.google.com/drive/folders/1hK8ZIeWAPAJr6dvyMP7STvkP9nMQU9H7?usp=sharing"
+        },
+        {
+            "_id": "portofolio_2",
+            "tittleName": "Bangbeli",
+            "projectName": "Internship project",
+            "Image": "../assets/Images/Porto2.png",
+            "Image1" : "../assets/Images/Porto2 detail 1.png",
+            "Image2" : "../assets/Images/Porto2 detail 2.png",
+            "Image3" : "../assets/Images/Porto2 detail 3.png",
+            "Descrip": "Bangbeli is a digital wallet application initiated for micro, small and medium enterprises (MSMEs). This application was initiated by Decky Ilham Syamputra since 2019 with the company name PT. Digital Children's Prayer.",
+            "Descrip1": "In this application there are deficiencies, namely users and agents find it difficult to make token and PLN bill payments, and search for transaction history when purchasing using the Bangbeli application. Apart from that, my team and I created an application for MBKM students to make it easier to take attendance.",
+            "Descrip2": "In the process I was assisted by the Product Manager team. Where discussions are held on similar competitor applications, and look for deficiencies in existing applications in Bangbeli. Create user stories and record user needs. After that, try to make user flows flow from the running of the application. Then create a wireframe and create a mockup.",
+            "Descrip3": "For PLN and transaction history after usability testing is carried out using the help of Maze tools. Get a score of 83 from 8 user scenarios created. This is a pretty good value because it has been tested by 5 respondents with different age ranges. The attendance application is not tested, only the ability of the FE and BE teams to do it.",
+            "Link": "https://drive.google.com/drive/folders/1AG8nCYkyH2CXY7rrUoAswI0A9y7sR1sq?usp=sharing"
+        },
+        {
+            "_id": "portofolio_3",
+            "tittleName": "Intelligo.Id",
+            "projectName": "Internship project",
+            "Image": "../assets/Images/Porto3.png",
+            "Image1": "../assets/Images/Porto3 detail 1.png",
+            "Image2": "../assets/Images/Porto3 detail 2.png",
+            "Image3": "../assets/Images/Porto3 detail 3.png",
+            "Descrip": "Intelligo ID, Edutech Solution Platform to Develop Data Science Potential. As a pioneer of Data Science learning solutions, overcoming learning barriers, but also the key to success in this dynamic world.",
+            "Descrip1": "The problem that occurs at Intelligo is that the CEO wants to have a fresher website so users can use the website to learn Data Science.",
+            "Descrip2": "In making it, I had discussions with the UI/UX team and the CEO to find references from similar competitors. Next, try designing by dividing each person into any part of the page. I got the assignment to re-design the website, LMS, and Event Management. Apart from that, I was also the UX lead for the development of the job connect feature so that users could search for jobs according to their wishes.",
+            "Descrip3": "Once created, the design will be immediately developed by the FE and BE teams without being tested first by users.",
+            "Link": "https://drive.google.com/drive/folders/1iAI3tCC5EYVOR6D6fPn_ALYTQf7Zlqkd?usp=sharing"
+        },
+        {
+            "_id": "portofolio_4",
+            "tittleName": "Quarter Life Project (QLP)",
+            "projectName": "Internship project",
+            "Image": "../assets/Images/Porto4.png",
+            "Image1": "../assets/Images/Porto4 detail 1.png",
+            "Image2": "../assets/Images/Porto4 detail 2.png",
+            "Image3": "../assets/Images/Porto4 detail 3.png",
+            "Descrip": "Quarter Life Projects is a platform that focuses on Quarter Life Crisis issues. This platform was initiated on March 27, 2021. It provides free programs such as weekly webinars, peer support, quarterlife community, and training session programs.",
+            "Descrip1": "The CEO of QLP wants to build a website to make it easier for users to register if they want to follow the tutorial. Previously there was a website. However, the CEO felt that the website was still not optimal. Therefore it needs to be redesigned.",
+            "Descrip2": "In the process, I was assisted by the UI/UX, FE and BE teams. To find out the shortcomings of the existing website, we conducted interviews with people who have provided services to QLP. After knowing the problems from users. Then we discussed with the team and did a redesign.",
+            "Descrip3": "After designing, it will be immediately developed by the FE and BE teams.",
+            "Link": "https://drive.google.com/drive/folders/1lI7RqjdM9Z8-37OtFcV-bjqWmZ4R6mfN?usp=sharing"
+        },
+        {
+            "_id": "portofolio_5",
+            "tittleName": "Clothify",
+            "projectName": "Dimas TI AMLI",
+            "Image": "../assets/Images/Porto5.png",
+            "Image1": "../assets/Images/Porto5 detail 1.png",
+            "Image2": "../assets/Images/Porto5 detail 2.png",
+            "Image3": "../assets/Images/Porto5 detail 3.png",
+            "Descrip": "Clothify is an application that can help people donate or sell their unused clothes. In this application, donors can post clothes they don't use to donate or resell so that people who are looking for clothes at cheap or even free prices can easily connect.",
+            "Descrip1": "In Indonesia itself, according to the Ministry of Environment in 2018, data on waste accumulation in Indonesia reached 65.79 tons. The details consist of various types, including textile waste. To solve that problem. We made a clothing application so that these clothes can be reused for those who need them with a record that they are fit for use. Apart from the purpose of this application to donate and sell clothes, the most important and most important goal is Sustainable Development Goals point 12, namely ensuring sustainable production and consumption patterns. The efficient management of the common use of natural resources, and the way we dispose of toxic waste and pollutants are important targets for achieving this goal.",
+            "Descrip2": "We conducted interviews with prospective users first. After that, map the results on the Empathy Map. Next, create a user persona to retell what the user feels. Next determine the user challenges by using How might we (HMW). HMW is a method for turning problems that we find into challenges with actionable statements (statements that can be followed up), and create user flow from using the application. Create architectural information to find out what features are available in the application. Next, create a wireframe and user interface.",
+            "Descrip3": "The design of this application has not been tested. Because the time for submitting the competition felt tight, the test could not be carried out. However, my team and I won 3rd place at the national level which was held at Universitas Negeri Semarang",
+            "Link": "https://drive.google.com/drive/folders/1_N0kRN_sAO-_eTaYxrTG02CBMIWETShR?usp=sharing"
+        },
+        {
+            "_id": "portofolio_6",
+            "tittleName": "KTM UPI Online",
+            "projectName": "I-TRI Challenge #2",
+            "Image": "../assets/Images/Porto6.png",
+            "Image1": "../assets/Images/Porto6 detail 1.png",
+            "Image2": "../assets/Images/Porto6 detail 2.png",
+            "Image3": "../assets/Images/Porto6 detail 3.png",
+            "Descrip": "KTM-UPI Online merupakan desain website yang saya buat pada kompetisi Inovasi Teknologi Di Era Pandemi' yang diselenggarakan oleh BEM KEMAKOM FPMIPA UPI. Website ini berfungsi untuk membantu mahasiswa baru khususnya untuk membuat KTM secara online tanpa harus ke kampus karena ada covid-19.",
+            "Descrip1": "It started when I interviewed what difficulties new students experienced during the pandemic. The problem is that they have difficulty making and taking the KTM which is made by the University and collaborates with BNI Bank. Especially when the PSBB was in effect so we couldn't go anywhere.",
+            "Descrip2": "The solution I offer is to provide an online KTM creation service. Because, at that time I was looking for no such service. I immediately looked for what new students needed, made a wireframe and user interface.",
+            "Descrip3": "After that, I submitted it to the Study Program BEM to be assessed. I didn't have time to test it because time was tight. However, I managed to win in the challege.",
+            "Link": "https://drive.google.com/drive/folders/1zcek17UaVZ0yrX4fGxkA538fucJAkevm?usp=sharing"
+        }
+    ]
+}
