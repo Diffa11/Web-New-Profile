@@ -26,7 +26,7 @@ export default function Navbar(props){
                             <a class="nav-link" href={`/#skill`}>Skills</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://drive.google.com/file/d/1mL75DE012GcGBgWHyS4TObE7qSwm4aXN/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
+                            <a class="nav-link" href="https://drive.google.com/file/d/1sQVhBuY4ckBg2Agal3GwlmtA6pbzlzfr/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="mailto:diffafarriz@gmail.com" target="_blank" rel="noreferrer">Contact</a>
